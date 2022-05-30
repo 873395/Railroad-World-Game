@@ -1,0 +1,2 @@
+UnrealGame.exe filter=lfs diff=lfs merge=lfs -text
+UnrealGame.pdb filter=lfs diff=lfs merge=lfs -text
